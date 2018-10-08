@@ -1,0 +1,218 @@
+[
+    [
+        "/Users/mlieber/app/geolocation/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mlieber/app/geolocation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1539040917421,
+            "changeTime": 1539040917421,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/mlieber/app/geolocation/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mlieber/app/geolocation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1539040917421,
+            "changeTime": 1539040917421,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mlieber/app/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mlieber/app/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1539042024359,
+            "changeTime": 1539042024359,
+            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+        }
+    ],
+    [
+        "/Users/mlieber/app/geolocation/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mlieber/app/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1539040917421,
+            "changeTime": 1539040917421,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mlieber/app/geolocation",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mlieber/app/geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1539041149361,
+            "changeTime": 1539041149361,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mlieber/app/geolocation/force-app/main/default/objects/Account/fields/Localisation__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mlieber/app/geolocation/force-app/main/default/objects/Account/fields/Localisation__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 411,
+            "modifiedTime": 1539042024291,
+            "changeTime": 1539042024291,
+            "contentHash": "369bc2f6c8b8dd2ce48f4444e55d5ed453ff6af9"
+        }
+    ],
+    [
+        "/Users/mlieber/app/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mlieber/app/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9634,
+            "modifiedTime": 1539042024317,
+            "changeTime": 1539042024317,
+            "contentHash": "15d6be313cbff6ab9cf8f3ae9d112cf42fa85766"
+        }
+    ],
+    [
+        "/Users/mlieber/app/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mlieber/app/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9586,
+            "modifiedTime": 1539042024329,
+            "changeTime": 1539042024329,
+            "contentHash": "7fa92bdb05773a06ada46207f0d37a4bf005a308"
+        }
+    ],
+    [
+        "/Users/mlieber/app/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mlieber/app/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9586,
+            "modifiedTime": 1539042024343,
+            "changeTime": 1539042024343,
+            "contentHash": "381b8a5b8ff0722e921552c23495f8bd037c75dc"
+        }
+    ],
+    [
+        "/Users/mlieber/app/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mlieber/app/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9634,
+            "modifiedTime": 1539042024356,
+            "changeTime": 1539042024356,
+            "contentHash": "bebc4ce4ff8cf8a419a30506eae49293adcbc86a"
+        }
+    ],
+    [
+        "/Users/mlieber/app/geolocation/force-app/main/default/permissionsets/Geolocalisation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mlieber/app/geolocation/force-app/main/default/permissionsets/Geolocalisation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 374,
+            "modifiedTime": 1539042024359,
+            "changeTime": 1539042024359,
+            "contentHash": "f5f519a56f2b191555c080ae13660ef4c744713a"
+        }
+    ],
+    [
+        "/Users/mlieber/app/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mlieber/app/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1539042024291,
+            "changeTime": 1539042024291,
+            "contentHash": "82e2ec83712f9030e4a5976cdeb1b0d04423b989"
+        }
+    ],
+    [
+        "/Users/mlieber/app/geolocation/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mlieber/app/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1539042024289,
+            "changeTime": 1539042024289,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/mlieber/app/geolocation/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mlieber/app/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1539042024288,
+            "changeTime": 1539042024288,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/mlieber/app/geolocation/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mlieber/app/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1539042024356,
+            "changeTime": 1539042024356,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "/Users/mlieber/app/geolocation/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mlieber/app/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1539042024359,
+            "changeTime": 1539042024359,
+            "contentHash": "ab1fd7b6ae49f2c1997968c107dca998ce0cd973"
+        }
+    ]
+]
